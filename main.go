@@ -1,4 +1,4 @@
-package main
+oopackage main
 
 import (
 	"bytes"
